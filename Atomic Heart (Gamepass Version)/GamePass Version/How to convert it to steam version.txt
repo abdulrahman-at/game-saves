@@ -1,0 +1,18 @@
+If you can't find the game pass save location use this line of command in Window + R panel: %LOCALAPPDATA%\Packages\FocusHomeInteractiveSA.579645D26CFD_4hny5m903y3g0\SystemAppData\wgs\
+
+Once you're in the Game Pass folder go in the folder with a long name, ignore the "t" folder;
+
+Inside this folder you should see other folders and some file named "container", ignore the container. Order the files for the last modified;
+
+Inside the last folder modified you'll find a file named with a long string of number, take this file and copy it on your desktop, we need it later;
+
+Now before starting a game in steam, disable the cloud save from the Steam game properties;
+
+Now you can start the game and play until the game will save for the first time, it should be before the gallery with the lady robot at the end;
+
+Go in your saved game steam folder in: C:\Users\[YOUR USERNAME]\AppData\Local\AtomicHeart\Saved\SaveGames
+
+Inside this folder you should see the saved game called with a number and .sav extension. Now you just have to rename the file you've copied on your desktop from game pass and rename it with the exact same name and extension (for me it was "9.sav"), then delete ALL files inside the saved game steam folder and put the file you renamed inside the folder.
+
+Now just start the game and load your save, from now on you can enable again the steam cloud for atomic heart;
+

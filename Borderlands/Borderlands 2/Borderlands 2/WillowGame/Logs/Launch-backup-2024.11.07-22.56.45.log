@@ -1,0 +1,87 @@
+Log: Log file open, 11/07/24 21:26:00
+Log: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log: Version: 8638
+Log: Compiled (32-bit): Apr 22 2019 22:05:48
+Log: Changelist: 1890495
+Log: Command line: 
+Log: Base directory: E:\Games\Borderlands 2 - Remastered\Binaries\Win32\
+[0000.62] Log: CPU Page size=4096, Processors=20
+[0000.62] Log: High frequency timer resolution =10.000000 MHz
+[0000.62] Log: Memory total: Physical=31.7GB Pagefile=37.5GB Virtual=4.0GB
+[0000.62] Log: STEAMWORKS initialized 1
+[0000.62] Log: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[0000.62] Log: Presizing GObjAvailable to 262144 slots (~1048576 bytes)
+[0000.62] Log: Object subsystem initialized
+[0000.62] Log:   Steamworks-provided language string: english
+[0000.83] Log: OS stats:
+[0000.83] Log: 	Windows 7 
+[0000.83] Log: 	RemoteDesktop=0
+[0000.83] Log: Memory stats:
+[0000.83] Log: 	Physical: 32472MB
+[0000.83] Log: 	Virtual: 4095MB
+[0000.83] Log: 	PageFile: 38360MB
+[0000.83] Log: CPU stats:
+[0000.83] Log: 	MeasuredPerformanceTime: 41.543 (stored result)
+[0000.83] Log: 	Hyperthreaded: 1
+[0000.83] Log: 	NumProcessorsPerCPU: 1
+[0000.83] Log: 	NumLogicalProcessors: 20
+[0000.83] Log: 	NumPhysicalProcessors: 64
+[0000.83] Log: 	MaxSpeed: 2700
+[0000.83] Log: 	CurrentSpeed: 1489
+[0000.83] Log: 	CoresPerProcessor: 64
+[0000.83] Log: 	IsOnBattery: 0
+[0000.83] Log: 	BatteryLevel: 79
+[0000.83] Log: 	Manufacturer: Intel
+[0000.83] Log: 	CPUName: INTEL Pentium-III
+[0000.83] Log: 	L1CacheSize: -1
+[0000.83] Log: 	L2CacheSize: -1
+[0000.83] Log: 	Architecture: x86
+[0000.83] Log: GPU stats:
+[0000.83] Log: 	VendorID: 000010DE
+[0000.83] Log: 	DeviceID: 000025A2
+[0000.83] Log: 	DriverVersion: 32.0.15.6590
+[0000.83] Log: 	DeviceName: NVIDIA GeForce RTX 3050 Laptop GPU
+[0000.83] Log: 	DriverName: nvldumd.dll
+[0000.83] Log: 	PixelShaderVersion: 3
+[0000.83] Log: 	VertexShaderVersion: 3
+[0000.83] Log: 	VRAMQuantity: 128
+[0000.83] Log: 	DedicatedVRAM: 128
+[0000.83] Log: 	AdapterCount: 1
+[0000.83] Log: 	SupportsHardwareTnL: 1
+[0000.83] Log: 	IsLowMemoryXPMachine: 0
+[0000.83] Log: Machine  detected compatibility level: Composite: 2. CPU: 5. GPU: 2.
+[0000.83] Log: Previous detected compatibility level: Composite: 2. CPU: 5. GPU: 2.
+[0000.92] Log: Shader platform (RHI): PC-D3D-SM3
+[0001.07] Log: PhysX GPU Support: ENABLED
+[0001.29] Log: Initializing FaceFX...
+[0001.29] Log: FaceFX 1.7.4 initialized.
+[0005.04] Log: Finished loading startup packages in 3.65 seconds
+[0005.04] Log: 155051 objects as part of root set at end of initial load.
+[0005.04] Log: Initializing Engine...
+[0005.06] Log: UEngine initialized
+[0005.14] Log: AK Audio Device initialized.
+[0005.19] Log: Client initialized
+[0006.54] Log: Initializing Steamworks
+[0006.79] Log: Primary PhysX scene will be in software.
+[0006.79] Log: Creating Primary PhysX Scene.
+[0006.80] Log: Bringing World menumap.TheWorld up for play (120) at 2024.11.07-21.26.07
+[0006.81] Log: Bringing up level for play took: 0.089341
+[0006.82] Log: Game engine initialized
+[0006.84] Log: Initializing Engine Completed
+[0024.45] Log: >>>>>>>>>>>>>> Initial startup: 24.45s <<<<<<<<<<<<<<<
+[0319.72] Log: Primary PhysX scene will be in software.
+[0319.72] Log: Creating Primary PhysX Scene.
+[0319.73] Log: Bringing World ExampleEntry.TheWorld up for play (120) at 2024.11.07-21.31.20
+[0319.73] Log: Bringing up level for play took: 0.015269
+[0319.80] Log: Primary PhysX scene will be in software.
+[0319.80] Log: Creating Primary PhysX Scene.
+[0319.81] Log: Bringing World Loader.TheWorld up for play (120) at 2024.11.07-21.31.20
+[0319.81] Log: Bringing up level for play took: 0.019300
+[0319.81] Log: Using cached profile data instead of reading
+[0319.82] Log: Using cached profile data instead of reading
+[0630.94] Log: Wrote profile (454 bytes) to disk.
+[0794.94] Log: Wrote profile (454 bytes) to disk.
+[1502.23] Log: Wrote profile (454 bytes) to disk.
+[1638.66] Log: Primary PhysX scene will be in software.
+[1638.66] Log: Creating Primary PhysX Scene.
+[1

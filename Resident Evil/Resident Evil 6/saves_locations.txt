@@ -1,0 +1,11 @@
+3DM: "%GAMEFOLDER%\OfflineStorage\Player\remote\"
+
+ALI213: "%GAMEFOLDER%\Profile\Player\Saves\"
+
+ALI213 Older: "%GAMEFOLDER%\Profile\Saves\"
+
+CODEX: "%PUBLIC%\Documents\Steam\CODEX\221040\remote"
+
+SSE: "%USERPROFILE%\AppData\Roaming\SmartSteamEmu\221040\remote\"
+
+RELOADED: "C:\ProgramData\Steam\Player\221040\storage\"
